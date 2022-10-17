@@ -20,7 +20,7 @@ Note: This support package is functional for R2022b and beyond.
 
 Before you begin, install the supported versions of MathWorks MATLAB®, Simulink® and HDL Coder™.
 
-Install and activate [LabVIEW Full or Professional Development Systems (32-bit)](https://www.ni.com/en-us/support/downloads/software-products/download.labview.html#443865) , [LabVIEW FPGA Module (32-bit)](https://www.ni.com/en-us/support/downloads/software-products/download.labview-fpga-module.html#411423), [NI R Series Multifunction RIO LabVIEW Support (32-bit)](https://www.ni.com/en-us/support/downloads/drivers/download.ni-r-series-multifunction-rio.html#442612), and [IP to FPGA Conversion Utility](https://www.ni.com/en-us/support/downloads/software-products/download.ip-to-fpga-conversion-utility.html#460214).
+Install and activate [LabVIEW Full or Professional Development Systems (32-bit)](https://www.ni.com/en-us/support/downloads/software-products/download.labview.html) , [LabVIEW FPGA Module (32-bit)](https://www.ni.com/en-us/support/downloads/software-products/download.labview-fpga-module.html), [NI R Series Multifunction RIO LabVIEW Support (32-bit)](https://www.ni.com/en-us/support/downloads/drivers/download.ni-r-series-multifunction-rio.html), and [IP to FPGA Conversion Utility](https://www.ni.com/en-us/support/downloads/software-products/download.ip-to-fpga-conversion-utility.html).
 
 
 ### Install HDL Coder Support Package for NI FPGA Hardware
@@ -32,6 +32,6 @@ Install and activate [LabVIEW Full or Professional Development Systems (32-bit)]
 
 ### Compile Server Considerations
 
-- Local Compile Server – To install the recommended version of the Xilinx compilation tool, refer to [Compatibility between Xilinx Compilation Tools and NI FPGA Hardware](https://www.ni.com/en-us/support/documentation/compatibility/19/compatibility-between-xilinx-compilation-tools-and-ni-fpga-hardware.html). Install the compilation tool from [LabVIEW FPGA Compilation Tool](https://www.ni.com/en-us/support/downloads/software-products/download.labview-fpga-compilation-tool.html#346211).
+- Local Compile Server – To install the recommended version of the Xilinx compilation tool, refer to [Compatibility between Xilinx Compilation Tools and NI FPGA Hardware](https://www.ni.com/en-us/support/documentation/compatibility/19/compatibility-between-xilinx-compilation-tools-and-ni-fpga-hardware.html). Install the compilation tool from [LabVIEW FPGA Compilation Tool](https://www.ni.com/en-us/support/downloads/software-products/download.labview-fpga-compilation-tool.html).
 - Network Compile Server – To set up a network compile server, refer to [NI LabVIEW FPGA Compilation Options](https://www.ni.com/en-us/innovations/white-papers/10/ni-labview-fpga-compilation-options.html).
 - LabVIEW FPGA Compile Cloud Service – To set up an account to use the cloud compile service, refer to [Creating an Account for the NI LabVIEW FPGA Compile Cloud Service](https://knowledge.ni.com/KnowledgeArticleDetails?id=kA03q000000YIRcCAO&amp;l=en-IN). For more details on Compile Cloud Service, refer to [Compile Faster with the LabVIEW FPGA Compile Cloud Service](https://www.ni.com/en-us/support/documentation/supplemental/14/compile-faster-with-the-labview-fpga-compile-cloud-service.html).
