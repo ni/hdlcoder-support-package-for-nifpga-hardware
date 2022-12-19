@@ -15,6 +15,7 @@ Note: This support package is functional for R2022b and beyond.
 | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems (32-bit) | LabVIEW FPGA Module (32-bit) | NI R Series Multifunction RIO with LabVIEW Support (32-bit) | IP to FPGA Conversion Utility |
 |:-|:-|:-|:-|:-|:-|
 | 22.8 (2022 Q4) | R2022b | 2019, 2020 and 2021 | 2019, 2020 and 2021 | 2022 Q4 | 2022 Q4 |
+| 23.0 (2023 Q1) | R2022b | 2019, 2020 and 2021 | 2019, 2020 and 2021 | 2022 Q4 | 2023 Q1 |
 
 ## Installation Guide for HDL Coder Support Package for NI FPGA Hardware
 
