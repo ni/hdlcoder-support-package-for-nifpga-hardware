@@ -12,18 +12,25 @@ Note: This support package is functional for R2022b and beyond.
 
 ## Software Compatibility
 
-| HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems (32-bit) | LabVIEW FPGA Module (32-bit) | NI R Series Multifunction RIO with LabVIEW Support (32-bit) | IP to FPGA Conversion Utility |
-|:-|:-|:-|:-|:-|:-|
-| 23.0 (2023 Q1) | R2022b* | 2019, 2020 and 2021 | 2019, 2020 and 2021 | 2022 Q4 | 2023 Q1 |
-| 22.8 (2022 Q4) | R2022b* | 2019, 2020 and 2021 | 2019, 2020 and 2021 | 2022 Q4 | 2022 Q4 |
+- For 32-bit Bitness -
+    | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems(32-bit) | LabVIEW FPGA Module(32-bit) | NI R Series Multifunction RIO with LabVIEW Support(32-bit) | IP to FPGA Conversion Utility |
+    |:-|:-|:-|:-|:-|:-|
+    | 23.3 (2023 Q2) | R2023a*<br> R2022b* | 2020 and 2021 | 2020 and 2021 | 2023 Q1 | 2023 Q2 |
+    | 23.0 (2023 Q1) | R2022b* | 2019, 2020 and 2021 | 2019, 2020 and 2021 | 2022 Q4 | 2023 Q1 |
+    | 22.8 (2022 Q4) | R2022b* | 2019, 2020 and 2021 | 2019, 2020 and 2021 | 2022 Q4 | 2022 Q4 |
 
-\* make sure to look up the [known issues](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v23.0) table and apply any suggested workarounds accordingly before using release 23.0.
+- For 64-bit Bitness -
+    | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems(64-bit) | LabVIEW FPGA Module(64-bit) | NI R Series Multifunction RIO with LabVIEW Support(64-bit) | IP to FPGA Conversion Utility |
+    |:-|:-|:-|:-|:-|:-|
+    | 23.3 (2023 Q2) | R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q1 | 2023 Q2 |
+    
+\* make sure to look up the [known issues](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v23.3) table and apply any suggested workarounds accordingly before using release 23.3.
 
 ## Installation Guide for HDL Coder Support Package for NI FPGA Hardware
 
 Before you begin, install the supported versions of MathWorks MATLAB®, Simulink® and HDL Coder™.
 
-Install and activate [LabVIEW Full or Professional Development Systems (32-bit)](https://www.ni.com/en-us/support/downloads/software-products/download.labview.html) , [LabVIEW FPGA Module (32-bit)](https://www.ni.com/en-us/support/downloads/software-products/download.labview-fpga-module.html), [NI R Series Multifunction RIO LabVIEW Support (32-bit)](https://www.ni.com/en-us/support/downloads/drivers/download.ni-r-series-multifunction-rio.html), and [IP to FPGA Conversion Utility](https://www.ni.com/en-us/support/downloads/software-products/download.ip-to-fpga-conversion-utility.html).
+Install and activate [LabVIEW Full or Professional Development Systems](https://www.ni.com/en-us/support/downloads/software-products/download.labview.html) , [LabVIEW FPGA Module](https://www.ni.com/en-us/support/downloads/software-products/download.labview-fpga-module.html), [NI R Series Multifunction RIO LabVIEW Support](https://www.ni.com/en-us/support/downloads/drivers/download.ni-r-series-multifunction-rio.html), and [IP to FPGA Conversion Utility](https://www.ni.com/en-us/support/downloads/software-products/download.ip-to-fpga-conversion-utility.html).
 
 
 ### Install HDL Coder Support Package for NI FPGA Hardware
