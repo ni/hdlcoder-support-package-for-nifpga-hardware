@@ -24,7 +24,7 @@ Note: This support package is functional for R2022b and beyond.
     |:-|:-|:-|:-|:-|:-|
     | 23.3 (2023 Q2) | R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q1 | 2023 Q2 |
     
-\* make sure to look up the [known issues](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v23.3) table and apply any suggested workarounds accordingly before using release 23.3.
+\* make sure to look up the [known issues](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v23.3.1) table and apply any suggested workarounds accordingly before using release 23.3/23.3.1.
 
 ## Installation Guide for HDL Coder Support Package for NI FPGA Hardware
 
