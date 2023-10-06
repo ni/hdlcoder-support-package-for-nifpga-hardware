@@ -8,7 +8,7 @@ This workflow allows you to perform the following actions:
 - Generate HDL code
 - Generate a LabVIEW FPGA project and create a bitfile. Once created, you can upload this file to NI FPGA Hardware.
 
-Note: This support package is functional for R2022b and beyond.
+Note: This support package is functional for R2022b and later releases listed in the table below
 
 ## Software Compatibility
 
