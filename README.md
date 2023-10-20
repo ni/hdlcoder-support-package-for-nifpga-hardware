@@ -11,7 +11,7 @@ This workflow allows you to perform the following actions:
 Note: This support package is functional for R2022b and later releases listed in the table below
 
 ## Software Compatibility
-
+**Note :** The latest release of the toolbox(23.5) does not work with MATLAB 2023b, for workaround refer known lssues in the [release notes](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v23.5)
 - For 32-bit LabVIEW -
     | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems(32-bit) | LabVIEW FPGA Module(32-bit) | NI R Series Multifunction RIO with LabVIEW Support(32-bit)** | FlexRIO with Integrated IO(PXIe-7890/7891)*** | IP to FPGA Conversion Utility |
     |:-|:-|:-|:-|:-|:-|:-|
