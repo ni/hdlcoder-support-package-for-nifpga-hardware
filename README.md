@@ -11,10 +11,10 @@ This workflow allows you to perform the following actions:
 Note: This support package is functional for R2022b and later releases listed in the table below
 
 ## Software Compatibility
-**Note :** The latest release of the toolbox(23.5) does not work with MATLAB 2023b, for workaround refer known lssues in the [release notes](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v23.5)
 - For 32-bit LabVIEW -
     | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems(32-bit) | LabVIEW FPGA Module(32-bit) | NI R Series Multifunction RIO with LabVIEW Support(32-bit)** | FlexRIO with Integrated IO(PXIe-7890/7891)*** | IP to FPGA Conversion Utility |
     |:-|:-|:-|:-|:-|:-|:-|
+    | 24.0(2024 Q1) | R2023b*<br>R2023a*<br> R2022b* | 2020 and 2021 | 2020 and 2021 | 2023 Q2 | 2023 Q2(Only LabVIEW 2021 supported) | 2024 Q1 |
 	| 23.5 (2023 Q3) | R2023a*<br> R2022b* | 2020 and 2021 | 2020 and 2021 | 2023 Q2 | 2023 Q2(Only LabVIEW 2021 supported) | 2023 Q3 |
     | 23.3 (2023 Q2) | R2023a*<br> R2022b* | 2020 and 2021 | 2020 and 2021 | 2023 Q1 | Not Supported | 2023 Q2 |
     | 23.0 (2023 Q1) | R2022b* | 2019, 2020 and 2021 | 2019, 2020 and 2021 | 2022 Q4 | Not Supported | 2023 Q1 |
@@ -22,10 +22,11 @@ Note: This support package is functional for R2022b and later releases listed in
 - For 64-bit LabVIEW -
     | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems(64-bit) | LabVIEW FPGA Module(64-bit) | NI R Series Multifunction RIO with LabVIEW Support(64-bit)** | FlexRIO with Integrated IO(PXIe-7890/7891)*** | IP to FPGA Conversion Utility |
     |:-|:-|:-|:-|:-|:-|:-|
+    | 24.0(2024 Q1) | R2023b*<br>R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q2 | 2023 Q2 | 2024 Q1 |
 	| 23.5 (2023 Q3) | R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q2 | 2023 Q2 | 2023 Q3 |
     | 23.3 (2023 Q2) | R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q1 | Not Supported | 2023 Q2 |
     
-\* make sure to look up the [known issues](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v23.5) table and apply any suggested workarounds accordingly before using release 23.5.
+\* make sure to look up the [known issues](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v24.0) table and apply any suggested workarounds.
 
 \** **Note**: **NI R Series Multifunction RIO with LabVIEW Support** driver is required only for R-series devices.
 
