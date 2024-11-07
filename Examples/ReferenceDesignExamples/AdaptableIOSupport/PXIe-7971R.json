@@ -1,0 +1,74 @@
+{
+    "Version": "1",
+    "TargetData": {
+        "ProjectPath": "",
+        "TopLevelVI": "..\\TemplatePrjs\\TopLevel.vi",
+        "TargetType": "PXIe-7971R",
+        "BoardIOData": [
+            {
+                "Name": "IO Module\\AI $i",
+                "Direction": "input",
+                "IterationVariables": [
+                    {
+                        "name": "i",
+                        "value": "[0- 1]"
+                    }
+                ],
+                "Datatype": "U16",
+                "StructureLabel": "AI Read Loop",
+                "Args": "",
+                "CoupledIO": "",
+                "InvokeNodes": [],
+                "PropertyNodes": []
+            },
+            {
+                "Name": "IO Module\\DIO Port $i Rd Data",
+                "Direction": "input",
+                "IterationVariables": [
+                    {
+                        "name": "i",
+                        "value": "[0- 1]"
+                    }
+                ],
+                "Datatype": "U8",
+                "StructureLabel": "CLIP Sequence",
+                "Args": "Frame:0",
+                "CoupledIO": "",
+                "InvokeNodes": [],
+                "PropertyNodes": []
+            },
+            {
+                "Name": "IO Module\\DIO Port $i Wr Data",
+                "Direction": "output",
+                "IterationVariables": [
+                    {
+                        "name": "i",
+                        "value": "[0- 1]"
+                    }
+                ],
+                "Datatype": "U8",
+                "StructureLabel": "CLIP Sequence",
+                "Args": "Frame:1",
+                "CoupledIO": "",
+                "InvokeNodes": [],
+                "PropertyNodes": []
+            },
+            {
+                "Name": "IO Module\\DIO Port $i WE",
+                "Direction": "output",
+                "IterationVariables": [
+                    {
+                        "name": "i",
+                        "value": "[0- 1]"
+                    }
+                ],
+                "Datatype": "Boolean",
+                "StructureLabel": "CLIP Sequence",
+                "Args": "Frame:1",
+                "CoupledIO": "",
+                "InvokeNodes": [],
+                "PropertyNodes": []
+            }
+        ]
+    }
+}
