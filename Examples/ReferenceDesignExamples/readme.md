@@ -16,3 +16,7 @@ This folder includes the following examples to guide you through the process of 
 2. CustomizableAITerminalMode
 
    This example illustrates how to use conditional disable symbols and structures to support various configurations. It uses the PXIe-7868R target and configures different AI terminal modes using conditional disable symbols.
+
+3. Internal IO
+
+   This example demonstrates how to create a bitfile with additional customizable IP alongside a Simulink model using a LabVIEW project as a Reference Design in the NI Bitfile Generation Workflow, including IP customization via the Parameters table and port connections in Set Target Interfaces.
