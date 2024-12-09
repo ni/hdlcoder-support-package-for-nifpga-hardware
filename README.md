@@ -15,7 +15,7 @@ Note: This support package is functional for R2022b and later releases listed in
 - For 32-bit LabVIEW -
     | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems(32-bit) | LabVIEW FPGA Module(32-bit) | NI R Series Multifunction RIO with LabVIEW Support(32-bit)** | FlexRIO with Integrated IO(PXIe-7890/7891)*** | IP to FPGA Conversion Utility |
     |:-|:-|:-|:-|:-|:-|:-|
-    | 24.5 (2024 Q3) | R2024a*<br>R2023b*<br>R2023a*<br> R2022b* | 2021 | 2021 | 2024 Q3 | 2024 Q3 | 2024 Q3 |
+    | 24.5 (2024 Q3) | R2024b*<br>R2024a*<br>R2023b*<br>R2023a*<br> R2022b* | 2021 | 2021 | 2024 Q3 | 2024 Q3 | 2024 Q3 |
     | 24.0 (2024 Q1) | R2023b*<br>R2023a*<br> R2022b* | 2020 and 2021 | 2020 and 2021 | 2023 Q2 | 2023 Q2(Only LabVIEW 2021 supported) | 2024 Q1 |
     | 23.5 (2023 Q3) | R2023a*<br> R2022b* | 2020 and 2021 | 2020 and 2021 | 2023 Q2 | 2023 Q2(Only LabVIEW 2021 supported) | 2023 Q3 |
     | 23.3 (2023 Q2) | R2023a*<br> R2022b* | 2020 and 2021 | 2020 and 2021 | 2023 Q1 | Not Supported | 2023 Q2 |
@@ -24,7 +24,7 @@ Note: This support package is functional for R2022b and later releases listed in
 - For 64-bit LabVIEW -
     | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems(64-bit) | LabVIEW FPGA Module(64-bit) | NI R Series Multifunction RIO with LabVIEW Support(64-bit)** | FlexRIO with Integrated IO(PXIe-7890/7891)*** | IP to FPGA Conversion Utility |
     |:-|:-|:-|:-|:-|:-|:-|
-    | 24.5 (2024 Q3) | R2024a*<br>R2023b*<br>R2023a*<br> R2022b* | 2023 and 2024 | 2023 and 2024 | 2024 Q3 | 2024 Q3 | 2024 Q3 |
+    | 24.5 (2024 Q3) | R2024b*<br>R2024a*<br>R2023b*<br>R2023a*<br> R2022b* | 2023 and 2024 | 2023 and 2024 | 2024 Q3 | 2024 Q3 | 2024 Q3 |
     | 24.0 (2024 Q1) | R2023b*<br>R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q2 | 2023 Q2 | 2024 Q1 |
     | 23.5 (2023 Q3) | R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q2 | 2023 Q2 | 2023 Q3 |
     | 23.3 (2023 Q2) | R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q1 | Not Supported | 2023 Q2 |
