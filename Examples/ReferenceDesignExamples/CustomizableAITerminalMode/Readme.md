@@ -2,7 +2,7 @@
 
 This example illustrates the usage of a basic parameterized reference design to adjust the AI Terminal Mode on an R Series PXIe-7868R.
 
-![ConfigureIO.png](Images\ConfigureIO.png)
+![ConfigureIO.png](Images/ConfigureIO.png)
 
 ## Steps to use the example
 
@@ -11,16 +11,16 @@ This example illustrates the usage of a basic parameterized reference design to 
   - open the `hdlcoder_ref_design_customization.m` file from `<Matlab toolbox installation location>\hdlsupport\Rseries\+PXIe7868R`
   - add `'PXIe7868R.CustomizableAITerminalMode.plugin_rd'` in rd section as shown below,
 
-    ![alt text](Images\ConfigureRD.png)
+    ![alt text](Images/ConfigureRD.png)
 
 ## Reference Project
 
 - The reference project can be found under `+CustomizableAITerminalMode` folder. This was created using `create-template` command `ip2fpgaCLI.exe create-template –t PXIe-7971R -o <FolderPathToSaveTemplate>` on a windows command line console. This was then edited to include extra code shown below.
 
-  ![IoCOnfig](Images\ConditionalSymbols.png)
+  ![IoCOnfig](Images/ConditionalSymbols.png)
 - The same `conditional symbols` are configured under target properties as shown below.
 
-  ![IoCOnfig](Images\ConditionalSymbolsProperties.png)
+  ![IoCOnfig](Images/ConditionalSymbolsProperties.png)
 
 ## Register reference design
 
