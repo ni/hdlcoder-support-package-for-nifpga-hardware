@@ -33,11 +33,11 @@
 - The reference project can be found under `+InternalIOExample` folder.
 - This was created using `create-template` command `ip2fpgaCLI.exe create-template –t PXIe-7971R -o <FolderPathToSaveTemplate>` on a windows command line console. This was then edited to include custom IP shown below.
 
-  ![TopLevel](Images\TopLevelVI.png)
+  ![TopLevel](Images/TopLevelVI.PNG)
 
 - The same `conditional symbols` are configured under target properties as shown below.
 
-  ![IoCOnfig](Images\CCSSymbols.png)
+  ![IoCOnfig](Images/CCSSymbols.PNG)
 
 
 ## Register a reference Design.
