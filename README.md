@@ -30,7 +30,7 @@ Note: This support package is functional for R2022b and later releases listed in
     | 23.5 (2023 Q3) | R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q2 | 2023 Q2 | 2023 Q3 |
     | 23.3 (2023 Q2) | R2023a*<br> R2022b* | 2023 | 2023 | 2023 Q1 | Not Supported | 2023 Q2 |
 
-\* make sure to look up the [known issues](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v24.5) table and apply any suggested workarounds accordingly before using release 24.5.
+\* Make sure to look up the [known issues](https://github.com/ni/hdlcoder-support-package-for-nifpga-hardware/releases/tag/v25.3) table and apply any suggested workarounds accordingly before using release 25.3.
 
 \** **Note**: **NI R Series Multifunction RIO with LabVIEW Support** driver is required only for R-series devices.
 
