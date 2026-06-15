@@ -9,7 +9,7 @@ function hRD = plugin_rd()
 
     % Tool information
     % Needs to be changed in future
-    hRD.SupportedToolVersion = {'2021', '2023', '2024'};
+    hRD.SupportedToolVersion = {'2024', '2025', '2026'};
     % Reference design path used below is the relative path
     hRD.addCustomLabviewDesign('LabviewProject','PXIe7868R.lvproj');
     hRD.addParameter('ParameterID'    ,  'AI_Terminal_Mode', ...

@@ -9,5 +9,5 @@ function hRD = plugin_rd()
 
     % Tool information
     % Needs to be changed in future
-    hRD.SupportedToolVersion = {'2021', '2023', '2024'};
+    hRD.SupportedToolVersion = {'2024', '2025', '2026'};
 end
