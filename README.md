@@ -14,6 +14,7 @@ Note: This support package is functional for R2022b and later releases listed in
 - For 64-bit LabVIEW -
     | HDL Coder™ Support Package for NI FPGA Hardware | MathWorks Simulink® | LabVIEW Full or Professional Development Systems(64-bit) | LabVIEW FPGA Module(64-bit) | NI R Series Multifunction RIO with LabVIEW Support(64-bit)** | FlexRIO with Integrated IO(PXIe-7890/7891)*** | IP to FPGA Conversion Utility |
     |:-|:-|:-|:-|:-|:-|:-|
+    | 26.5 (2026 Q3) |R2026a*<br>R2025b*<br>R2025a*<br>R2024b*<br>R2024a*<br>R2023b*<br>R2023a*<br> R2022b* | 2024<br>2025<br>2026 | 2024<br>2025<br>2026 | 2026 Q3 | 2026 Q3 | 2026 Q3 
     | 25.8 (2025 Q4) |R2025b*<br>R2025a*<br>R2024b*<br>R2024a*<br>R2023b*<br>R2023a*<br> R2022b* | 2023<br>2024<br>2025 | 2023<br>2024<br>2025 | 2025 Q4 | 2025 Q4 | 2025 Q4 
     | 25.3 (2025 Q2) |R2025a*<br>R2024b*<br>R2024a*<br>R2023b*<br>R2023a*<br> R2022b* | 2023<br>2024<br>2025 | 2023<br>2024<br>2025 | 2025 Q1 | 2025 Q1 | 2025 Q2 
     | 24.5 (2024 Q3) | R2024a*<br>R2023b*<br>R2023a*<br> R2022b* | 2023 and 2024 | 2023 and 2024 | 2024 Q3 | 2024 Q3 | 2024 Q3 |
